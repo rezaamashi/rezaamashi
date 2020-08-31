@@ -1,0 +1,2 @@
+1. Customizing some lines from source codeStackr
+2. Fixing UI issues
