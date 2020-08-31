@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Reza's Github Stats" src="https://github-readme-stats.rezaamashi.vercel.app/api?username=Reza&show_icons=true&hide_border=true&theme=algolia" />
+  <img align="left" alt="Reza A'masyi's Github Stats" src="https://github-readme-stats.rezaamashi.vercel.app/api?username=Reza&show_icons=true&hide_border=true&theme=algolia" />
 
 
 </details>
