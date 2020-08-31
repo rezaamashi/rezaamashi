@@ -1,5 +1,7 @@
 ### Hi, I am Reza 👋🤩
 
+![Twitter Follow](https://img.shields.io/twitter/follow/mnurreza?color=%231DA1F2&logo=Twitter&style=for-the-badge)
+
  - 🔭 I’m currently working on my personal Fullstack Project
  - 🌱 I’m currently learning everything 😊
  - 👯 I’m looking to collaborate with other creators and developers
