@@ -11,7 +11,7 @@
 
 
 ### Spotify "Currently Playing 🎧"
-[<img src="https://novatorem.rezaamashi.vercel.app/api/spotify-playing" alt="Reza Spotify Playing" width="350" />](https://open.spotify.com/user/)
+[![Spotify](https://novatorem.rezaamashi.vercel.app/api/spotify)]
 
 ### Reach me out:
 
