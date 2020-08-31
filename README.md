@@ -11,7 +11,7 @@
 
 
 ### Spotify "Currently Playing 🎧"
-[![Spotify](https://22ldtnbojx4qd3sk6sekr4sii.vercel.app/api/spotify)]((https://open.spotify.com/user/22ldtnbojx4qd3sk6sekr4sii)
+[![Spotify](https://novatorem-git-master.rezaamashi.vercel.app//api/spotify)]((https://open.spotify.com/user/22ldtnbojx4qd3sk6sekr4sii)
 
 ### Reach me out:
 
