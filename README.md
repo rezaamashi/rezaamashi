@@ -11,7 +11,7 @@
 
 
 ### Spotify "Currently Playing 🎧"
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Reza Spotify Playing" width="350" />](https://open.spotify.com/user/)
+[<img src="https://novatorem.rezaamashi.vercel.app/api/spotify-playing" alt="Reza Spotify Playing" width="350" />](https://open.spotify.com/user/)
 
 ### Reach me out:
 
@@ -46,7 +46,6 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 ---
