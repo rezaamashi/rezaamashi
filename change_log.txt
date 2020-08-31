@@ -6,4 +6,5 @@ This note exist for personal reference
 4.  Experimenting with 'null' type in "Language and Tools"
 5.  Returning the line in "Language and Tools" to the way it was
 6.  Setting up readme stat and Vercel
-7.  Add top language in readme stats
+7.  Add top language in readme-stats
+8.  Resolving username issue in readme-stats
