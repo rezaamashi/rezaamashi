@@ -8,3 +8,4 @@ This note exist for personal reference
 6.  Setting up readme stat and Vercel
 7.  Add top language in readme-stats
 8.  Resolving username issue in readme-stats
+9.  Updating readme-stats theme

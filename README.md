@@ -53,8 +53,8 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="Reza A'masyi's Github Stats" src="https://github-readme-stats.rezaamashi.vercel.app/api?username=rezaamashi&show_icons=true&hide_border=true&theme=algolia" />
-  <img align="right" alt="Reza A'masyi's Top Language" src="https://github-readme-stats.rezaamashi.vercel.app/api/top-langs/?username=rezaamashi&layout=compact&theme=algolia" />
+  <img align="left" alt="Reza A'masyi's Github Stats" src="https://github-readme-stats.rezaamashi.vercel.app/api?username=rezaamashi&show_icons=true&hide_border=true" />
+  <img align="left" alt="Reza A'masyi's Top Language" src="https://github-readme-stats.rezaamashi.vercel.app/api/top-langs/?username=rezaamashi&layout=compact" />
 
 
 </details>
