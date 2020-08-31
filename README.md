@@ -46,13 +46,14 @@
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+---
+
 </details>
 
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="My Github Stats" src="" />
-
+  <img align="left" alt="Reza's Github Stats" src="https://github-readme-stats.rezaamashi.vercel.app/api?username=Reza&show_icons=true&hide_border=true&theme=algolia" />
 
 
 </details>
