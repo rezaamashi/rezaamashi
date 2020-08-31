@@ -13,10 +13,6 @@
 ### Spotify "Currently Playing 🎧"
 [![Spotify](https://novatorem.rezaamashi.vercel.app/api/spotify)](https://open.spotify.com/user/22ldtnbojx4qd3sk6sekr4sii)
 
-<a href="https://now-playing-profile.rezaamashi.vercel.app/now-playing?open">
-    <img src="https://now-playing-profile.rezaamashi.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
-</a>
-
 ### Reach me out:
 
 [<img align="left" alt="mnurreza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
