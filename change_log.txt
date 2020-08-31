@@ -1,0 +1,5 @@
+This note is here for personal reference
+
+1. Customizing some lines from source codeStackr
+2. Fixing UI issues
+3. Remove unused space on first part (below I am looking for...)

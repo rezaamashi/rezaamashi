@@ -4,10 +4,6 @@
  - 🌱 I’m currently learning everything 😊
  - 👯 I’m looking to collaborate with other creators and developers
  - 🤔 I’m looking for help with Python, Javascript, SQL
-<!-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--->
  - ⚡ Fun fact: I also love arts and design (😉 UI/UX Design)
  - ✨ 2020 Goals: Learning Fullstack Web Development🍔 && Finishing my undergraduate thesis🌲 
 
@@ -17,9 +13,6 @@
 
 ### Reach me out:
 
-<!--[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
--->
 [<img align="left" alt="mnurreza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Reza A'masyi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Reza A'masyi | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
