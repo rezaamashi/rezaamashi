@@ -9,10 +9,6 @@
  - ⚡ Fun fact: I also love arts and design (😉 UI/UX Design)
  - ✨ 2020 Goals: Learning Fullstack Web Development🍔 && Finishing my undergraduate thesis🌲 
 
-
-[//] ### Spotify "Currently Playing 🎧"
-[//] [![Spotify](https://novatorem.rezaamashi.vercel.app/api/spotify)](https://open.spotify.com/user/22ldtnbojx4qd3sk6sekr4sii)
-
 ### Reach me out:
 
 [<img align="left" alt="mnurreza | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
