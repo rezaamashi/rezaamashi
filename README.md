@@ -50,4 +50,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezaamashi&layout=compact" alt="rezaamashi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rezaamashi&show_icons=true" alt="rezaamashi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=rezaamashi&show_icons=true" alt="rezaamashi" /></p>
